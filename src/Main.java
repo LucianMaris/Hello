@@ -18,6 +18,7 @@ public class Main {
         System.out.print("hola Roger, creamos un conflicto");
         System.out.print("hola Roger, resolvamnos un conflicto");
 
-
+        boolean patata = false;
+        patata = !patata;
     }
 }
