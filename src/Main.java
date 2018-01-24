@@ -5,7 +5,7 @@ public class Main {
 
         pp++;
 
-        if(pp == 1) {
+        if(pp == 3) {
 
             System.out.print("line of code testeando el conflicto");
             System.out.print("line of code testeando el conflicto");
