@@ -7,8 +7,8 @@ public class Main {
 
         if(pp == 1) {
 
-            System.out.print("line of code testeando el conflicto");
-            System.out.print("line of code testeando el conflicto");
+            System.out.print("linegdfgdgdsdgsgflicto");
+
         }
         System.out.print("test if it'' works");
         System.out.print("test if it'' works");
